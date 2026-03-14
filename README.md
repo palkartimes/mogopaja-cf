@@ -1,2 +1,2 @@
 # mogopaja-cf
-cf paja
+Mogo Paja Maintenance Page
